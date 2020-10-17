@@ -26,4 +26,4 @@ Icon=desktop
 Name=Create Link Here (ln -s)
 Name[it]=Crea Collegamento Qui (ln -s)
 Exec=/bin/bash -c "ln -s %F ./$(basename "%F" )-link"
-Icon=desktop
+Icon=insert-link
